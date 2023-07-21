@@ -1,4 +1,4 @@
-# ВМ для VPN WIREGUARD ([git]())
+# ВМ для VPN WIREGUARD ([git](https://github.com/psyd01986/get_vpn))
 
 ## Установите пакеты на ubuntu
 - [Установленные пакеты](./doc/pkgs.md)
